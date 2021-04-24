@@ -1,0 +1,35 @@
+.TasksList {
+    margin-top: 0px;
+}
+
+.HeaderRow .Data {
+    display: inline-block;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.HeaderRow {
+    padding: 10px;
+    background-color: #0096d6;
+    color: #fff;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 1px;
+}
+
+.Serial {
+    width: 10%;
+    text-align: center;
+}
+
+.Activity {
+    width: 55%;
+}
+
+.Status {
+    width: 15%;
+}
+
+.EndsIn {
+    width: 15%;
+}

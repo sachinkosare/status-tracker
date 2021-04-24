@@ -1,0 +1,17 @@
+@font-face {
+  font-family: "HPSimplifiedRegular";
+  src: url("HPSimplifiedRegular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal; 
+}
+
+:global(body) {
+  font-family: HPSimplifiedRegular;
+  background: #fafafa;
+  color: #222222;
+}
+
+.App {
+  width: 1200px;
+  margin: 0 auto;
+}

@@ -1,0 +1,45 @@
+.DataRow .Data {
+    display: inline-block;
+}
+
+.DataRow {
+    padding: 10px;
+}
+
+.DataRow .Data {
+    display: inline-block;
+    font-size: 18px;
+}
+
+.Serial {
+    width: 10%;
+    text-align: center;
+}
+
+.Activity {
+    width: 55%;
+}
+
+.Status {
+    width: 15%;
+}
+
+.EndsIn {
+    width: 15%;
+    font-size: 24px !important;
+}
+
+.Default {    
+    font-weight: bold;
+    color: #666;
+}
+
+.InProgress {
+    background:khaki;
+    font-weight: bold;
+}
+
+.Completed {
+    background:lightgreen;
+    font-weight: bold;
+}
