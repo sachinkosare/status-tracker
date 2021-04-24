@@ -1,5 +1,5 @@
 ## Project description
-I created this tool in React for project deployment activities so that attendees would know whats the status of individual deployment task. However, it can be useful for other activities also. Activities list can be edited in App.js.
+I created this tool in React for project deployment activities so that attendees would know whats the status of individual deployment task with a timer feature that tells how much time is left for the current activity to complete. However, it can be useful for other activities also. Activities list can be edited in App.js.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
